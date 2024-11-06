@@ -1,0 +1,21 @@
+# Ignore Unity cache and temporary folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio and VSCode settings
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs

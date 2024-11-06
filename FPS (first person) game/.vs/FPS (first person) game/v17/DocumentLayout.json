@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|e:\\engineering\\projects done\\10. fps 3d game\\survival shooter game\\fps (first person) game\\assets\\scripts\\input manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\interactables\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\keypad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\interactables\\endgamebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\endgamebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eventonlyinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\player\\player motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C62537A-6B19-501C-7954-190C4ED0558B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "keypad.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Interactables\\keypad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\keypad.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Interactables\\keypad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\keypad.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:38:46.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndGameBox.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Interactables\\EndGameBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\EndGameBox.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Interactables\\EndGameBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\EndGameBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:38:41.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventOnlyInteractable.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\EventOnlyInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EventOnlyInteractable.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\EventOnlyInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EventOnlyInteractable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:38:35.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InteractionEvent.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\InteractionEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionEvent.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\InteractionEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:38:31.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:38:21.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player Motor.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Player\\Player Motor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player Motor.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Player\\Player Motor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player Motor.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAhwEEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:30:53.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Enemy\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Bullet.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Enemy\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:21:51.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T11:21:47.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:37:47.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input Manager.cs",
+              "DocumentMoniker": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Input Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input Manager.cs",
+              "ToolTip": "E:\\Engineering\\Projects Done\\10. FPS 3D Game\\Survival shooter game\\FPS (first person) game\\Assets\\Scripts\\Input Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input Manager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:35:21.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
